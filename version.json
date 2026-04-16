@@ -1,5 +1,5 @@
 {
-  "versao_atual": "1.1",
-  "url_download": "https://github.com/JPed552/automacao-sefaz-releases/releases/download/v1.1/AcaoAuditoria.exe",
-  "notas_atualizacao": "Versão 1.1: Ajuste na descrição da planilha (mudou 'destino' para 'colunas'. "
+  "versao_atual": "1.2",
+  "url_download": "https://github.com/JPed552/automacao-sefaz-releases/releases/download/v1.2/AcaoAuditoria.exe",
+  "notas_atualizacao": "Atualização da interface e melhoria nos casos de erro. "
 }
